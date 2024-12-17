@@ -16,7 +16,8 @@ DOMAIN-SUFFIX,eztv.ch
 DOMAIN-SUFFIX,eztv.li
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,aktv.top
-DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,edge3.hkdvb.com
+DOMAIN-SUFFIX,live.hkdvb.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
