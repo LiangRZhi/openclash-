@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,aktv.top
 DOMAIN-SUFFIX,edge3.hkdvb.com
 DOMAIN-SUFFIX,live.hkdvb.com
+DOMAIN-SUFFIX,nicept.net
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
